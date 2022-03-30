@@ -2,6 +2,7 @@
  * Represents a calendar with pure javascript
  *@author Hamed Ostovar
  * @todo Finish implementation
+ *
  */
 
 const date = new Date();
